@@ -42,7 +42,7 @@ npm run test
 
 - Github: [@githubhandle](https://github.com/arslanbisharat)
 - Twitter: [@twitterhandle](https://twitter.com/arslan_bisharat-2020bb156)
-- Linkedin: [linkedin](https://www.linkedin.com/in/muhammad-arslan-2020bb156)
+- Linkedin: [linkedin](https://www.linkedin.com/in/muhammad-arslan)
 
 ## 🤝 Contributing
 
