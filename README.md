@@ -29,7 +29,7 @@ npm install
 
 ### Up and running
 ```
-npm run install
+npm run test
 ```
 ## Built With
 
